@@ -1,4 +1,4 @@
-# Projeto Fênix
+# Projeto Acelera
 
 ### Ideias/seções:
 
